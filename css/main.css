@@ -8,3 +8,27 @@ html {
 svg {
   color: #6feff9;
 }
+
+.path-1 {
+  color: #ffd31d;
+}
+
+.path-2 {
+  color: #f62e52;
+}
+
+.cctv {
+  animation: 150ms linear forwards;
+}
+
+@keyframes opacity {
+
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+
+}
